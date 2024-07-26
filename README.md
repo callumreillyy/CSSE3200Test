@@ -1,4 +1,4 @@
-# Test 3200 intial repo
+# Test 3200 repo
 
 Setup an initial repo for csse3200
 
